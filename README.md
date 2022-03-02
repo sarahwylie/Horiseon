@@ -1,5 +1,6 @@
 # Horiseon
-Week One Challenge
+
+## Week One Challenge
 https://sarahwylie.github.io/Horiseon/
 
-Cleaned up CSS, got html as accessible as I know how to at this stage. Happy first challenge!
+## This site is a sample site created for educational purposes and for a bootcamp challenge.
